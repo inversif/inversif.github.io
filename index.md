@@ -1,2 +1,2 @@
-# **Site is still undergoing construction...**
+# Site is still undergoing construction...
 ![Image of Yaktocat](img/platelet.png)
