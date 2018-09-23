@@ -1,0 +1,3 @@
+# Site is out on minimum functionality!
+After constant procrastination, I finally managed to complete the barebone of my github page! Here, I will post gists of my projects and perhaps share my thoughts on anything. For now however...
+![Image of Yaktocat](img/PlateletHapp.png)
